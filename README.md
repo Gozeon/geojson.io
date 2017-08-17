@@ -31,6 +31,9 @@ You can interact with geojson.io programmatically in two ways:
 Full API documentation can be found in [API.md](API.md).
 
 ## Development
+Install [nvm](https://github.com/creationix/nvm)
+
+    nvm use
 
 Install [browserify](https://github.com/substack/node-browserify)'ied libraries:
 
